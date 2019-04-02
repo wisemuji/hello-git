@@ -1,5 +1,5 @@
 # 동작 환경
-* `MS Windows 10`
+* `MS Windows 8`
 * `.Net Framework 4` 이상
 
 # 설치 방법
