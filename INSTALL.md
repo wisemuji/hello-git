@@ -1,4 +1,5 @@
 # 동작 환경
+<<<<<<< HEAD
 * `MS Windows 7`
 * `.Net Framework 4` 이상
 
